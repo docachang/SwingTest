@@ -1,0 +1,13 @@
+package jp.ac.kuma.swingtest;
+
+import javax.swing.JFrame;
+
+public class TestWindow extends JFrame {
+	
+	TestWindow(){
+		setTitle("TestWindow");
+		setBounds(600,400,300,250);
+		setVisible(true);
+	}
+
+}
