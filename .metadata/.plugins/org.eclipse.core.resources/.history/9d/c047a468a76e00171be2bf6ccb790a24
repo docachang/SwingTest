@@ -1,0 +1,29 @@
+package jp.ac.kuma.swingtest;
+
+import javax.swing.JFrame;
+
+public class Frame {
+	
+	private static JFrame frame;
+	
+	Frame(){
+		frame = new JFrame();
+	}
+	
+	Frame(String x){
+		frame = new JFrame(x);
+	}
+	
+	void setFrameTitle(String x){
+		frame.setTitle(x);
+	}
+	
+	void displayFrame(){
+		frame.setVisible(true);
+	}
+	
+	void deleteFrame(){
+		frame.setVisible(false);
+	}
+
+}

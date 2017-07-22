@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TestMain.java&apos; to &apos;SwingTest/src/jp.ac.kuma.swingtest&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;SwingTest&apos;&#x0D;&#x0A;- 宛先要素: &apos;SwingTest/src/jp.ac.kuma.swingtest&apos;&#x0D;&#x0A;- オリジナル要素: &apos;TestMain.java&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="/src&lt;jp.ac.kuma.swingtest" element1="/src&lt;{TestMain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1500703965286" units="1" version="1.0"/>
+</session>
